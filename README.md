@@ -18,3 +18,8 @@ composer install
 1. Most of the returned values in pixi are in german.
 2. The pixi calls are case sensitive
 3. The documentation is not always right. Especially in case of required parameters
+
+## Pixi API developer docs
+[API Docs](https://apps-live.pixi.eu/api-developer-app)
+
+
