@@ -1,5 +1,5 @@
 {
-	"name" : "Pixi/SDK",
+	"name" : "pixi/sample-project",
 	"description" : "Pixi API example project",
 	"version" : "1.0.0",
 	"repositories" : [{
