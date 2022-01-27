@@ -1,0 +1,27 @@
+{
+	"name" : "Pixi/SDK",
+	"description" : "Pixi API example project",
+	"version" : "1.0.0",
+	"repositories" : [{
+			"type" : "composer",
+			"url" : "https://apps-live.pixi.eu/satis"
+		}
+	],
+	"require" : {
+		"php" : " >= 7.1 <8.0",
+		"components/pixi" : "~0.1",
+
+		"pixi/api" : "~2.0",
+		"pixi/factory" : "~0.0",
+		"phpmailer/phpmailer": "^6.1"
+	},
+	"config" : {
+		"component-dir" : "./assets",
+		"component-baseurl" : "/assets"
+	},
+	"autoload" : {
+		"classmap" : [
+			"application/controllers/"
+		]
+	}
+}
