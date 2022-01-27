@@ -1,5 +1,5 @@
 # Pixi SDK example project
-This example is a quick introduction in how to consume the Pixi SOAP API.
+This example is based on the official Pixi SDK. It is a quick introduction in how to consume the Pixi SOAP API with PHP.
 
 ## Directories
 `application` directory contains the SDK.
